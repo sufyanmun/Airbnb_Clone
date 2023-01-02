@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 ![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/images/Image1.png)
-![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/images/Image2.png)
+![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/images/Image3.png)
 
 
 
