@@ -1,4 +1,4 @@
-/** @type {import('next').NextConfig} */
+/** @type {import("next").NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
 }
@@ -11,6 +11,6 @@ module.exports = {
         hostname: "**",
       },
     ],
-    domains: ['pandotrip.com','logodownload.org','images.pexels.com','a0.muscache.com','muscache.com'],
+    domains: ["pandotrip.com","logodownload.org","images.pexels.com","a0.muscache.com","muscache.com"],
   },
 };
