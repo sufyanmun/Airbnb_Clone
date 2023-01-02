@@ -11,6 +11,6 @@ module.exports = { nextConfig,
         hostname: "**",
       },
     ],
-    domains: ['pandotrip.com','logodownload.org','images.pexels.com'],
+    domains: ['pandotrip.com','logodownload.org','images.pexels.com','a0.muscache.com','muscache.com'],
   },
 };
