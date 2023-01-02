@@ -7,11 +7,10 @@ module.exports = { nextConfig,
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'logodownload.org',
-        port: '',
-        pathname: '/wp-content/uploads/2016/10/airbnb-logo-10.png',
+        protocol: "https",
+        hostname: "**",
       },
     ],
+    domains: ['pandotrip.com','logodownload.org','images.pexels.com'],
   },
 };
