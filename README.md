@@ -3,8 +3,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## [Airbnb-clone](https://airbnb-clone-fawn-psi.vercel.app/)
 
 
-![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/Images/Image1.png)
-![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/Images/Image2.png)
+![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/images/Image1.png)
+![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/images/Image2.png)
 
 
 
