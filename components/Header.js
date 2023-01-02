@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "next/Image";
+import Image from "next/image";
 function Header() {
   return (
     <header className="sticky top-0 z-30 grid grid-cols-3 bg-white shadow-md p-5 md:px-10">
