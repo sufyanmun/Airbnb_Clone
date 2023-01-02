@@ -55,7 +55,7 @@ function Header() {
           />
         </svg>
         <div className="flex items-center space-x-2 border-2 p-2 rounded-full">
-          <svg 
+          <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
