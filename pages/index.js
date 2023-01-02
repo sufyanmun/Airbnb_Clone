@@ -5,7 +5,7 @@ import styles from "../styles/Home.module.css"
 import Header from "../components/Header"
 import Banner from "../components/Banner"
 import Footer from "../components/Footer"
-import Largecard from "../components/Largecard"
+import LargeCard from "../components/LargeCard"
 import MediumCard from "../components/MediumCard"
 
 const inter = Inter({ subsets: ["latin"] })
@@ -26,7 +26,7 @@ export default function Home() {
           <h2 className="text-4xl font-semibold pb-5 text-center"> Explore </h2>
         </section>
         <MediumCard/>
-        <Largecard/>
+        <LargeCard/>
       </main>
 
     </>
