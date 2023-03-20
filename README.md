@@ -1,14 +1,15 @@
-## [Airbnb-clone](https://airbnb-clone-fawn-psi.vercel.app/)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Check out the final build: [Link](https://airbnb-clone-fawn-psi.vercel.app/)
+## Airbnb-clone 
 
 
-![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/images/Image1.png)
-![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/images/Image3.png)
+![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/Images/Image1.png)
+![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/Images/Image2.png)
+![](https://github.com/sufyanmun/Airbnb_Clone/blob/main/Images/Image3.png)
+
+
 
 ## Getting Started
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
